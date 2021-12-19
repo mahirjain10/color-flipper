@@ -1,0 +1,87 @@
+body{
+    background-color:orange;
+    margin: 0px;
+}
+#header{
+/* margin-top: 20px; */
+background-color: orchid;
+padding-bottom: 20px;
+padding-top: 20px;
+}
+#title-head{
+    display: inline;
+}
+li{
+list-style: none;
+font-size: 30px;
+font-family: 'Dancing Script', cursive;
+font-family: 'Noto Sans', sans-serif;
+display: inline;
+
+}
+#un-order{
+display: inline;
+margin-left:900px;
+}
+#border{
+border: 2px solid black;
+width:1360x;
+/* margin-top:20px;
+background-color: red; */
+}
+#head{
+color: white;
+background-color: black;
+padding:20px;
+text-align: center;
+display: inline;
+font-size: 50px;
+font-family: 'Dancing Script', cursive;
+font-family: 'Noto Sans', sans-serif;
+border-radius: 5px;
+}
+#bg-value{
+    font-size:50px;
+    color:cornflowerblue;
+    /* position: fixed; */
+    /* background-color: d; */
+ }
+#box{
+    text-align: center;
+    margin-top:150px;
+    /* background-color:#5261Ab; */
+    height: 400px;
+}
+#click-me{
+    height:50px;
+    width:120px;
+    border:2px  solid red;
+    color:white;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: black;
+    cursor: pointer;
+}
+#click-me:hover{
+    background-color: red;
+    border:2px solid black;
+}
+#button-div{
+    margin-top: 30px;
+}
+#hex-btn-span,#simple-btn-span{
+font-family: 'Dancing Script', cursive;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-size: 30px;
+cursor: pointer;
+}
+#hex-btn-span:hover,#simple-btn-span:hover{
+    color:cornflowerblue;
+    transition-duration: 1s;
+}
+#hex-btn,#simple-btn{
+    background-color: orchid;
+    border:none  
+}
+    
